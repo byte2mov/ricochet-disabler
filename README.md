@@ -19,3 +19,7 @@ if you want to update this for each ver of the anti cheat just get the name of t
 "sc create driver binpath="path/kernel.sys" type=kernel"
 
 then just sign it with a leaked cert and start it, enjoy.
+
+credits : me (seemo), sk4ller
+
+emotional support for seemo : fizware / fizzy
