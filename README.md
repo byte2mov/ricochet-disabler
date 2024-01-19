@@ -16,7 +16,7 @@ to use this just create a service using the following
 
 if you want to update this for each ver of the anti cheat just get the name of the driver and replace it in the source (pretty stupid yep)
 
-"sc create driver binpath="path/kernel.sys" type=kernel"
+"sc create driver binpath="path/kernel.sys" type="kernel"
 
 then just sign it with a leaked cert and start it, enjoy.
 
