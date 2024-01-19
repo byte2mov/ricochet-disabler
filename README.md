@@ -4,9 +4,9 @@ so how does this work?
 
 we can take a quick dip into obregistercallbacks in windows internal 
 
-link : [URL="https://learn.microsoft.com/en-us/windows-hardware/drivers/ddi/wdm/nf-wdm-obregistercallbacks"]https://learn.microsoft.com/en-us/windows-hardware/drivers/ddi/wdm/nf-wdm-obregistercallbacks[/URL]
+link : https://learn.microsoft.com/en-us/windows-hardware/drivers/ddi/wdm/nf-wdm-obregistercallbacks
 
-more links : [URL="https://www.unknowncheats.me/forum/anti-cheat-bypass/148364-obregistercallbacks-and-countermeasures.html"]https://www.unknowncheats.me/forum/anti-cheat-bypass/148364-obregistercallbacks-and-countermeasures.html[/URL]
+more links : https://www.unknowncheats.me/forum/anti-cheat-bypass/148364-obregistercallbacks-and-countermeasures.html
 
 what we are doing here is basically just disabling the call backs without restoring them and then we can simply r/w memory safely with anything (you can use process hacker and try to dump strings to test / view memory)
 
